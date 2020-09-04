@@ -1,0 +1,20 @@
+POST http://localhost:3001/api/tutorials
+content-type: application/json
+
+{
+    "title":"a"
+}
+###
+POST http://localhost:3001/api/tutorials
+content-type: application/json
+
+{
+    "title":"b"
+}
+###
+POST http://localhost:3001/api/tutorials
+content-type: application/json
+
+{
+    "title":"c"
+}

@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/tutorials/5f52bfe293adf12644af8bca
+content-type: application/json
+
+{
+    "title":"test",
+    "published":true
+}
